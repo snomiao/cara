@@ -1,0 +1,29 @@
+{
+  "name": "cara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.mjs",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snomiao/cara.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snomiao/cara/issues"
+  },
+  "homepage": "https://github.com/snomiao/cara#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "http-proxy-agent": "^5.0.0",
+    "ical": "^0.8.0",
+    "ics": "^2.31.0",
+    "node-fetch": "^3.1.0",
+    "node-fetch-with-proxy": "^0.1.6",
+    "sno-utils": "^0.3.4",
+    "tsv": "^0.2.0",
+    "yaml": "^1.10.2"
+  }
+}
